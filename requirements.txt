@@ -1,4 +1,4 @@
-machinegnosis
+machinegnostics
 pandas
 numpy
 scikit-learn
